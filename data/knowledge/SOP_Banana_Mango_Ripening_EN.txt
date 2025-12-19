@@ -1,0 +1,80 @@
+SOP for Handling and Ripening Bananas and Mangoes (Unripe vs. Ripe)
+Document: SOP-QC-RIP-01 | Version: 1.0 | Date: 2025-12-16
+Scope: Warehouse/packing house, cold chain, ripening chamber, distribution
+
+1. Purpose
+To ensure consistent quality and safe handling of bananas and mangoes across the supply
+chain by controlling temperature, relative humidity (RH), ethylene exposure,
+ventilation/CO₂, and gentle handling for two conditions: unripe (green/near-mature) and ripe
+(ready-to-market).
+
+2. Definitions
+Unripe: Firm, green/near-mature fruit suitable for transport and controlled ripening. Ripe:
+Softer fruit ready for sale; more sensitive to bruising and temperature fluctuations.
+Ripening chamber: A controlled room where ripening is accelerated using ethylene along with
+set temperature, RH, and ventilation to manage CO₂ and remove ethylene after treatment.
+
+3. Roles and Responsibilities
+QC/Inspector: Incoming inspection, grading decisions (ripen/hold/reject), documentation.
+Ripening Operator: Run ripening cycles (setpoints for temperature/RH/ethylene/ventilation)
+and monitor readings. Warehouse/Logistics: Maintain cold chain, segregation rules, safe
+stacking/handling, FEFO dispatch for ripe fruit.
+
+4. Operational Procedure
+
+4.1 Incoming Receiving and Initial Sorting (Banana & Mango)
+1) Verify lot identity: supplier, lot/batch ID, arrival date/time, quantity, packaging
+condition. 2) Perform rapid visual QC (sampling): bruising, cuts, mold/rot, leakage (mango
+sap), crown damage (banana). 3) Categorize lot:    - Unripe (eligible for controlled
+ripening/transport): not extremely immature and not overly mature.    - Ripe/near-ripe:
+prioritize for quick dispatch; minimize re-handling. 4) Record findings with photos for
+HOLD/REJECT cases (optional but recommended).
+
+4.2 Storage and Transport (Unripe vs. Ripe)
+General (especially for unripe): - Pre-cool where feasible and keep temperature stable
+throughout transit. - Avoid mixing commodities with incompatible temperature requirements.
+Ethylene segregation (critical for unripe bananas and mangoes): - Do not store/transport
+unripe bananas/mangoes together with strong ethylene-producing commodities (e.g., apples,
+avocados). Use separate zones/vehicles where possible.  Ripe fruit: - Handle gently; limit
+stack height; reduce shocks; dispatch quickly using strict FIFO/FEFO.
+
+4.3 Controlled Ripening in a Ripening Chamber
+Target RH during ripening: 90–95%. Use commodity-specific setpoints and ensure
+ventilation/exhaust to manage CO₂ and remove ethylene after treatment.
+
+4.3.1 Ripening Setpoints (Quick Reference)
+Banana: - Ethylene: 100–150 ppm - Exposure time: 24–48 hours - Ripening temperature: 15–18°C
+- Post-ripening storage temperature: 13–14°C  Mango: - Ethylene: 100 ppm - Exposure time:
+~24 hours - Ripening temperature: 20–22°C - Post-ripening storage temperature: 10–13°C
+
+4.3.2 Ventilation and CO₂ Control
+- Maintain CO₂ at a low level throughout ripening; as a practical guide, keep CO₂ below 5000
+ppm. - Use exhaust/ventilation to:   (a) remove ethylene after the exposure period, and
+(b) prevent CO₂ build-up that can delay ripening or degrade quality.
+
+4.3.3 Step-by-Step Ripening Cycle (Operator)
+1) Pre-check: cleanliness, door seals, sensor calibration (temperature/RH/CO₂). 2) Load
+fruit: allow airflow paths; avoid dead zones; do not over-stack. 3) Stabilize room: reach
+target temperature/RH before ethylene introduction. 4) Ethylene exposure: run for the
+specified duration. 5) Ventilate after exposure: purge ethylene and reduce CO₂. 6) Holding:
+keep fruit at the appropriate temperature until target ripeness is reached. 7) Record all
+readings and deviations; apply corrective action if ripening becomes non-uniform.
+
+4.3.4 Safety Notes (Ethylene Handling)
+- Prefer safer delivery methods (cartridges/generators) and trained personnel. - Ensure
+ventilation between loads and follow facility safety rules for gases and electrical
+equipment.
+
+
+4.4 Post-Ripening QC and Dispatch
+1) Move fruit to post-ripening storage temperatures:    - Banana: 13–14°C    - Mango:
+10–13°C 2) Final QC sampling: color stage, firmness (relative), bruising, rot, lot
+uniformity. 3) Label status: READY-TO-DISPATCH vs. HOLD (extend holding 12–24h if needed).
+4) Dispatch: strict FEFO for ripe lots; minimize handling during loading.
+
+
+5. Monitoring Checklist (Minimum)
+- Lot ID, supplier, arrival date/time - Initial category: UNRIPE / RIPE - Storage and
+transit temperatures (where applicable) - Ripening setpoints (T, RH, ethylene ppm, duration)
+- CO₂ readings during ripening (keep < 5000 ppm as a guide) - Final QC outcomes and dispatch
+decision - Deviations and corrective actions
